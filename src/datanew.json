@@ -1,0 +1,2162 @@
+[
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chicken kabab biryani",
+        "price": "350",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "Mixed biryani",
+        "price": "460",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "special chicken fried rice",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chandrika dum biryani",
+        "price": "350",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "special veg fried rice",
+        "price": "320",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "panner chasew biryani",
+        "price": "360",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chilli chicken",
+        "price": "340",
+        "rating": "4.7"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4.7"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "chasew paneer curry",
+        "price": "320",
+        "rating": "4.3"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chandrika Grand",
+        "fooditem": "mutton curry",
+        "price": "400",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chadrika mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "chandrika family biryani point",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Suprabath",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Abhiruchi",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Biryani's and more",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vindhu",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4.1"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3.6"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Spice Magic",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "mixed biryani",
+        "price": "460",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "chicken kabab biryani",
+        "price": "380",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "chicken dilkush biryani",
+        "price": "590",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "chicken dum biryani",
+        "price": "320",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "mutton biryani",
+        "price": "450",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "andhra chicken curry",
+        "price": "320",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "mutton curry",
+        "price": "420",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "veg biryani",
+        "price": "340",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "special veg fried rice",
+        "price": "350",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "paneer biryani",
+        "price": "320",
+        "rating": "2.5"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "paneer curry",
+        "price": "350",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "chicken lollipop",
+        "price": "360",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "chicken 65",
+        "price": "340",
+        "rating": "3.9"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "curd rice",
+        "price": "140",
+        "rating": "3.7"
+    },
+    {
+        "Restaurant": "Adhurs",
+        "fooditem": "special curd rice",
+        "price": "190",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "chilli paneer",
+        "price": "219",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "grilled turkish",
+        "price": "292",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "chilli chicken wings",
+        "price": "292",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "crispy wings",
+        "price": "292",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "arabian special fish",
+        "price": "379",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "bbq chicken",
+        "price": "292",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "steak chicken",
+        "price": "292",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "special veg mandi",
+        "price": "229",
+        "rating": "3"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "chicken bbq mandi",
+        "price": "279",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "chicken steak mandi",
+        "price": "279",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "chicken juicy mandi",
+        "price": "319",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "mutton fry piece biryani",
+        "price": "419",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "arabian fish mandi",
+        "price": "485",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "arabian mixed mandi",
+        "price": "989",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Barkaas",
+        "fooditem": "shahi tukda",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "chilli paneer",
+        "price": "219",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "grilled turkish",
+        "price": "292",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "chilli chicken wings",
+        "price": "292",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "crispy wings",
+        "price": "292",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "arabian special fish",
+        "price": "379",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "bbq chicken",
+        "price": "292",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "steak chicken",
+        "price": "292",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "special veg mandi",
+        "price": "229",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "chicken bbq mandi",
+        "price": "279",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "chicken steak mandi",
+        "price": "279",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "chicken juicy mandi",
+        "price": "319",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "mutton fry piece biryani",
+        "price": "419",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "arabian fish mandi",
+        "price": "485",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "arabian mixed mandi",
+        "price": "989",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "MandiCroods",
+        "fooditem": "shahi tukda",
+        "price": "119",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "chilli paneer",
+        "price": "219",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "grilled turkish",
+        "price": "292",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "chilli chicken wings",
+        "price": "292",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "crispy wings",
+        "price": "292",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "arabian special fish",
+        "price": "379",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "bbq chicken",
+        "price": "292",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "steak chicken",
+        "price": "292",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "special veg mandi",
+        "price": "229",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "chicken bbq mandi",
+        "price": "279",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "chicken steak mandi",
+        "price": "279",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "chicken juicy mandi",
+        "price": "319",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "mutton fry piece biryani",
+        "price": "419",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "arabian fish mandi",
+        "price": "485",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "arabian mixed mandi",
+        "price": "989",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Shadaab Mandi",
+        "fooditem": "shahi tukda",
+        "price": "119",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "chilli paneer",
+        "price": "219",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "grilled turkish",
+        "price": "292",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "chilli chicken wings",
+        "price": "292",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "crispy wings",
+        "price": "292",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "arabian special fish",
+        "price": "379",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "bbq chicken",
+        "price": "292",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "steak chicken",
+        "price": "292",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "special veg mandi",
+        "price": "229",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "chicken bbq mandi",
+        "price": "279",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "chicken steak mandi",
+        "price": "279",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "chicken juicy mandi",
+        "price": "319",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "mutton fry piece biryani",
+        "price": "419",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "arabian fish mandi",
+        "price": "485",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "arabian mixed mandi",
+        "price": "989",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Arabic mandi",
+        "fooditem": "shahi tukda",
+        "price": "119",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "Big 8",
+        "price": "684",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "ultimate saving bucket",
+        "price": "699",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "peri peri 6pc chicken strips",
+        "price": "299",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "hot chicken wings 4pc",
+        "price": "179",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "tandoori chicken burger",
+        "price": "209",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken krisper burger 2pc",
+        "price": "249",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken popcorn-large",
+        "price": "248",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "french fries",
+        "price": "99",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken biryani bucket",
+        "price": "229",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken mingles bucket",
+        "price": "339",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "veg krispers burger 2pc",
+        "price": "179",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "veg burger",
+        "price": "189",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "veg biryani bucket",
+        "price": "199",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken biryani combo",
+        "price": "740",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "KFC",
+        "fooditem": "chicken combo bucket",
+        "price": "779",
+        "rating": "4.8"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "Big 8",
+        "price": "684",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "ultimate saving bucket",
+        "price": "699",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "peri peri 6pc chicken strips",
+        "price": "299",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "hot chicken wings 4pc",
+        "price": "179",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "tandoori chicken burger",
+        "price": "209",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken krisper burger 2pc",
+        "price": "249",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken popcorn-large",
+        "price": "248",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "french fries",
+        "price": "99",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken biryani bucket",
+        "price": "229",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken mingles bucket",
+        "price": "339",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "veg krispers burger 2pc",
+        "price": "179",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "veg burger",
+        "price": "189",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "veg biryani bucket",
+        "price": "199",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken biryani combo",
+        "price": "740",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "SKFC",
+        "fooditem": "chicken combo bucket",
+        "price": "779",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "Big 8",
+        "price": "684",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "ultimate saving bucket",
+        "price": "699",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "peri peri 6pc chicken strips",
+        "price": "299",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "hot chicken wings 4pc",
+        "price": "179",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "tandoori chicken burger",
+        "price": "209",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken krisper burger 2pc",
+        "price": "249",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken popcorn-large",
+        "price": "248",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "french fries",
+        "price": "99",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken biryani bucket",
+        "price": "229",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken mingles bucket",
+        "price": "339",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "veg krispers burger 2pc",
+        "price": "179",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "veg burger",
+        "price": "189",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "veg biryani bucket",
+        "price": "199",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken biryani combo",
+        "price": "740",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "KGF",
+        "fooditem": "chicken combo bucket",
+        "price": "779",
+        "rating": "3.5"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "Indi chicken pizza",
+        "price": "369",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "indo fusion chicken pizza",
+        "price": "399",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "Tandoori paneer pizza",
+        "price": "319",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "paneer paratha pizza",
+        "price": "219",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "double spicy chicken",
+        "price": "309",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "BBQ chicken pizza",
+        "price": "219",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "4 cheese pizza",
+        "price": "349",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "pepper paneer pizza",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "chicken dominator pizza",
+        "price": "369",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Domino's pizza",
+        "fooditem": "chicken golden delight pizza",
+        "price": "319",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "Indi chicken pizza",
+        "price": "369",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "indo fusion chicken pizza",
+        "price": "399",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "Tandoori paneer pizza",
+        "price": "319",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "paneer paratha pizza",
+        "price": "219",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "double spicy chicken",
+        "price": "309",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "BBQ chicken pizza",
+        "price": "219",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "4 cheese pizza",
+        "price": "349",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "pepper paneer pizza",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "chicken dominator pizza",
+        "price": "369",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Pizza Hut",
+        "fooditem": "chicken golden delight pizza",
+        "price": "319",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "Indi chicken pizza",
+        "price": "369",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "indo fusion chicken pizza",
+        "price": "399",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "Tandoori paneer pizza",
+        "price": "319",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "paneer paratha pizza",
+        "price": "219",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "double spicy chicken",
+        "price": "309",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "BBQ chicken pizza",
+        "price": "219",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "4 cheese pizza",
+        "price": "349",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "pepper paneer pizza",
+        "price": "119",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "chicken dominator pizza",
+        "price": "369",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "RTS cafe",
+        "fooditem": "chicken golden delight pizza",
+        "price": "319",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "onion dosa",
+        "price": "60",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Idli[3pc]",
+        "price": "40",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Minapa dosa",
+        "price": "50",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Egg chapathi",
+        "price": "80",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Rava dosa",
+        "price": "55",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Egg dosa",
+        "price": "70",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "chapati",
+        "price": "60",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "parota",
+        "price": "60",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Masala dosa",
+        "price": "65",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Avada",
+        "price": "65",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Ghee Idly",
+        "price": "60",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Ghee Minapa dosa",
+        "price": "70",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "onion rava dosa",
+        "price": "65",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "uttapam",
+        "price": "60",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Hotel Sridevi",
+        "fooditem": "Umpa pesarattu",
+        "price": "70",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "onion dosa",
+        "price": "60",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Idli[3pc]",
+        "price": "40",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Minapa dosa",
+        "price": "50",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Egg chapathi",
+        "price": "80",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Rava dosa",
+        "price": "55",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Egg dosa",
+        "price": "70",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "chapati",
+        "price": "60",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "parota",
+        "price": "60",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Masala dosa",
+        "price": "65",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Avada",
+        "price": "65",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Ghee Idly",
+        "price": "60",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Ghee Minapa dosa",
+        "price": "70",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "onion rava dosa",
+        "price": "65",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "uttapam",
+        "price": "60",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Chandrika tiffins",
+        "fooditem": "Umpa pesarattu",
+        "price": "70",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "onion dosa",
+        "price": "60",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Idli[3pc]",
+        "price": "40",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Minapa dosa",
+        "price": "50",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Egg chapathi",
+        "price": "80",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Rava dosa",
+        "price": "55",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Egg dosa",
+        "price": "70",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "chapati",
+        "price": "60",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "parota",
+        "price": "60",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Masala dosa",
+        "price": "65",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Avada",
+        "price": "65",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Ghee Idly",
+        "price": "60",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Ghee Minapa dosa",
+        "price": "70",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "onion rava dosa",
+        "price": "65",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "uttapam",
+        "price": "60",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Sri Ganesh Canteen",
+        "fooditem": "Umpa pesarattu",
+        "price": "70",
+        "rating": "4.2"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "onion dosa",
+        "price": "60",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Idli[3pc]",
+        "price": "40",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Minapa dosa",
+        "price": "50",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Egg chapathi",
+        "price": "80",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Rava dosa",
+        "price": "55",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Egg dosa",
+        "price": "70",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "chapati",
+        "price": "60",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "parota",
+        "price": "60",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Masala dosa",
+        "price": "65",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Avada",
+        "price": "65",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Ghee Idly",
+        "price": "60",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Ghee Minapa dosa",
+        "price": "70",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "onion rava dosa",
+        "price": "65",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "uttapam",
+        "price": "60",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Vijaya Canteen",
+        "fooditem": "Umpa pesarattu",
+        "price": "70",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "onion dosa",
+        "price": "60",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Idli[3pc]",
+        "price": "40",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Minapa dosa",
+        "price": "50",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Egg chapathi",
+        "price": "80",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Rava dosa",
+        "price": "55",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Egg dosa",
+        "price": "70",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "chapati",
+        "price": "60",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "parota",
+        "price": "60",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Masala dosa",
+        "price": "65",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Avada",
+        "price": "65",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Ghee Idly",
+        "price": "60",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Ghee Minapa dosa",
+        "price": "70",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "onion rava dosa",
+        "price": "65",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "uttapam",
+        "price": "60",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ajantha Canteen",
+        "fooditem": "Umpa pesarattu",
+        "price": "70",
+        "rating": "3.8"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Butterscotch Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Jackfruit Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "chocolate Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Mango kingdom Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Ice cream shake",
+        "price": "163",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Blackcurrent Ice cream",
+        "price": "240",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "straberry Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "cotton candy Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "Almond Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Ibaco",
+        "fooditem": "vanilla choco Ice cream",
+        "price": "113",
+        "rating": "4.5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Butterscotch Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Jackfruit Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "chocolate Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Mango kingdom Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Ice cream shake",
+        "price": "171",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Blackcurrent Ice cream",
+        "price": "249",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "straberry Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "cotton candy Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "Almond Ice cream",
+        "price": "129",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Iceburg",
+        "fooditem": "vanilla choco Ice cream",
+        "price": "119",
+        "rating": "5"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Butterscotch Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Jackfruit Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "chocolate Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Mango kingdom Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Ice cream shake",
+        "price": "169",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Blackcurrent Ice cream",
+        "price": "249",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "straberry Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "cotton candy Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "Almond Ice cream",
+        "price": "119",
+        "rating": "4"
+    },
+    {
+        "Restaurant": "Chocodew",
+        "fooditem": "vanilla choco Ice cream",
+        "price": "119",
+        "rating": "4"
+    }
+]

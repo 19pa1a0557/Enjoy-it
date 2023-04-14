@@ -1,0 +1,171 @@
+.container{
+  width: 100%;
+  height: auto;
+}
+.navbar{
+  background-color: red;
+  width: 100%;
+  height: 60px;
+}
+.middle{
+  width: 100%;
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+.middle::-webkit-scrollbar {
+  display: none;
+}
+.hotels_container{
+  display: flex;
+  width: 86%;
+  height: auto;
+  margin: auto;
+  flex-wrap: wrap;
+}
+.hotel_card{
+  width: 350px;
+  height: 380px;
+  background-color: white;
+  margin: auto;
+  margin-bottom: 20px;
+  border: none;
+  margin-right: 10px;
+}
+.hotel_card:hover{
+  border-radius: 10px;
+  border: 0.1rem solid rgb(232, 232, 232);
+  cursor: pointer;
+  box-shadow: rgba(28, 28, 28, 0.12) 0px 0.4rem 1.8rem;
+  border-color: rgb(232, 232, 232);
+}
+.hotel_card img{
+  width: 328px;
+  height: 248px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px 0px 0px 10px;
+}
+.description1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+.hotel_name p{
+  margin: 0px;
+}
+.hotel_rating p{
+  margin: 0px;
+}
+.hotel_name p:nth-child(1){
+  font-size: 20px;
+}
+.hotel_name p:nth-child(2){
+  color: #A2A2A2;
+  padding-top: 5px;
+  font-size: 14px;
+}
+.hotel_rating p:nth-child(2){
+  color: #A2A2A2;
+  padding-top: 5px;
+  font-size: 14px;
+}
+.headersection{
+  height: 200px;
+  width: 100%;
+  background-color: lightgrey;
+  margin-bottom: 30px;
+}
+.itemscontainer{
+  display: flex;
+  justify-content: center;
+}
+
+.items{
+  width: 700px;
+  min-height: 150px;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.scroll{
+  height: 100vh;
+  overflow-y: scroll;
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+.itemss{
+  display: flex;
+}
+.items:hover{
+  border: 0.1rem solid rgb(232, 232, 232);
+  box-shadow: rgba(28, 28, 28, 0.12) 0px 0.4rem 1.8rem;
+  border-color: rgb(232, 232, 232);
+}
+.items img{
+  border-radius: 5px;
+}
+.items p{
+  margin-top: 0px;
+  margin-left: 20px;
+}
+.restaurantname{
+  font-size: 22px;
+  margin-bottom: 0px;
+}
+.itemname{
+  color: #6B6B6B;
+  font-size: 14px;
+}
+.rating{
+  color: white;
+  background-color: green;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.pricing{
+  margin-left: 20px;
+  margin-top: 15px !important;
+}
+.searchcont{
+  display: flex;
+}
+input{
+  display: block;
+  width: 600px;
+  height: 40px;
+  border-radius: 0px 5px 5px 0px;
+  border: 0.1rem solid rgb(232, 232, 232);
+  border-left: none;
+}
+input:focus{
+  outline: none;
+}
+.searchicon{
+  display: block;
+  border: 0.1rem solid rgb(232, 232, 232);
+  padding: 5px;
+  padding-bottom: 2px;
+  border-right: none;
+}
+.slots{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.discountlogo{
+  height: 70px;
+  width: 150px;
+}
+.disc1 p{
+  margin: 0px;
+}
+.coup{
+  margin-bottom: 10px;
+}

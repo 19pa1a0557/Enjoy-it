@@ -1,0 +1,470 @@
+[
+    {
+        "app": "Zomato",
+        "Restaurant": "Chandrika Grand",
+        "Discount": "60% upto 120",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "chandrika family biryani point",
+        "Discount": "50% upto 100",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Suprabath",
+        "Discount": "50% upto 100",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Abhiruchi",
+        "Discount": "30% upto 75",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Biryani's and more",
+        "Discount": "30% upto 75",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Vindhu",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Spice Magic",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Adhurs",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Barkaas",
+        "Discount": "10% upto 25",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "MandiCroods",
+        "Discount": "10% upto 25",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Shadaab Mandi",
+        "Discount": "30% upto 75",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Arabic mandi",
+        "Discount": "25% upto 60",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "KFC",
+        "Discount": "10% upto 25",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "SKFC",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "KGF",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Domino's pizza",
+        "Discount": "30% upto 75",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Pizza Hut",
+        "Discount": "40% upto 80",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "RTS cafe",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Hotel Sridevi",
+        "Discount": "Flat 10%",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Chandrika tiffins",
+        "Discount": "Flat 20%",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Sri Ganesh Canteen",
+        "Discount": "Falt 20%",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Vijaya Canteen",
+        "Discount": "Flat 10%",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Ajantha Canteen",
+        "Discount": "10% upto 25",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Ibaco",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Iceburg",
+        "Discount": "20% upto 50",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Zomato",
+        "Restaurant": "Chocodew",
+        "Discount": "10% upto 40",
+        "coupon": "HungerCoupon"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Chandrika Grand",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "chandrika family biryani point",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Suprabath",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Abhiruchi",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Biryani's and more",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Vindhu",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Spice Magic",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Adhurs",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Barkaas",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "MandiCroods",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Shadaab Mandi",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Arabic mandi",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "KFC",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "SKFC",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "KGF",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Domino's pizza",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Pizza Hut",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "RTS cafe",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Hotel Sridevi",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Chandrika tiffins",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Sri Ganesh Canteen",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Vijaya Canteen",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Ajantha Canteen",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Ibaco",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Iceburg",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Swiggy",
+        "Restaurant": "Chocodew",
+        "Discount": "",
+        "coupon": "SwiggyNew"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Chandrika Grand",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "chandrika family biryani point",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Suprabath",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Abhiruchi",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Biryani's and more",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Vindhu",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Spice Magic",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Adhurs",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Barkaas",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "MandiCroods",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Shadaab Mandi",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Arabic mandi",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "KFC",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "SKFC",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "KGF",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Domino's pizza",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Pizza Hut",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "RTS cafe",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Hotel Sridevi",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Chandrika tiffins",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Sri Ganesh Canteen",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Vijaya Canteen",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Ajantha Canteen",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Ibaco",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Iceburg",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    },
+    {
+        "app": "Amar Services",
+        "Restaurant": "Chocodew",
+        "Discount": "",
+        "coupon": "DailyCoupon"
+    }
+]
